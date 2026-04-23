@@ -20,7 +20,7 @@
 <br/>
 
 <!-- TWO COLUMNS: ABOUT + STATS -->
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top" width="50%">
 
@@ -38,9 +38,9 @@
 
 ### `// GITHUB STATS`
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheusbrunetti&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&icon_color=22d3ee&text_color=e6edf3" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=matheusbrunetti&theme=tokyonight&show_icons=true&hide_border=true&transparent=true&title_color=4ade80&icon_color=22d3ee&text_color=e6edf3" width="100%" alt="Matheus Brunetti's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrunetti&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=e6edf3" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrunetti&theme=tokyonight&layout=compact&hide_border=true&transparent=true&title_color=4ade80&icon_color=22d3ee&text_color=e6edf3" width="100%" alt="Matheus Brunetti's top languages" />
 
 </td>
 </tr>
