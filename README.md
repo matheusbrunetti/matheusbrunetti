@@ -1,40 +1,18 @@
-# GitHub Profile Banner
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d2018&height=120&section=header&text=Hi%2C%20I%27m%20Matheus!&fontSize=30&fontColor=4ade80&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frankfurt%2C%20Germany&descAlignY=55&descColor=22d3ee" width="100%" />
+</p>
 
-Este projeto é um exemplo de repositório para o seu perfil do GitHub. Basta renomear o repositório para o seu `username/username` e o conteúdo deste `README.md` vai aparecer na sua página de perfil.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&background=00000000&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Link11+GmbH;%F0%9F%87%A7%F0%9F%87%B7+Brazilian+dev+living+in+%F0%9F%87%A9%F0%9F%87%AA+Germany;Java+%C2%B7+Kotlin+%C2%B7+Python+%C2%B7+JavaScript;Building+resilient+systems" alt="Typing SVG" />
+</p>
 
-## Como usar
-
-1. Crie um repositório no GitHub com o mesmo nome do seu usuário.
-   - Exemplo: `meuusuario/meuusuario`
-2. Copie o arquivo `README.md` para este repositório.
-3. Faça o upload do arquivo `banner.svg` no mesmo repositório.
-4. Edite o `README.md` para personalizar o texto e links.
-
-## Exemplo de README
-
-```md
-![Banner do perfil](./banner.svg)
-
-# Olá! Eu sou [Seu Nome]
-
-- Desenvolvedor(a) Frontend / Backend / Fullstack
-- Especialista em Flutter, Node.js, TypeScript
-- Apaixonado(a) por design e automação
-
-## Conecte-se comigo
-
-- 🔗 [LinkedIn](https://linkedin.com/in/seunome)
-- 🌐 [Portfólio](https://seusite.com)
-- 🐦 [Twitter](https://twitter.com/seunome)
-```
-
-## Personalização
-
-- Abra `banner.svg` e altere o texto.
-- Se quiser uma imagem estática, substitua `banner.svg` por `banner.png` e atualize o caminho no `README.md`.
-- Use `Canva`, `Figma` ou `Adobe Express` para criar um banner em alta qualidade.
-
----
-
-Pronto! Agora seu perfil GitHub terá uma capa personalizada e um README com sua apresentação.
-# matheusbrunetti
+<!-- BADGE ROW -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Frankfurt,_Germany-0a0a0a?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PT_·_EN_·_DE-22d3ee?style=flat-square&labelColor=0a0a0a&color=22d3ee" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔐_Cybersecurity-4ade80?style=flat-square&labelColor=0a0a0a&color=4ade80" />
+</p>
