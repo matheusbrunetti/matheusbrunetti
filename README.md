@@ -16,3 +16,32 @@
   &nbsp;
   <img src="https://img.shields.io/badge/🔐_Cybersecurity-4ade80?style=flat-square&labelColor=0a0a0a&color=4ade80" />
 </p>
+
+<br/>
+
+<!-- TWO COLUMNS: ABOUT + STATS -->
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+### `// ABOUT ME`
+
+🏢 Software Engineer at **Link11 GmbH**  
+📍 Frankfurt, Germany  
+🎓 UFLA — Universidade Federal de Lavras (2019)  
+🌐 Fluent in **PT · EN · DE**  
+🔐 Working on DDoS protection & network resilience  
+⚡ Passionate about distributed systems & mobile dev  
+
+</td>
+<td valign="top" width="50%">
+
+### `// GITHUB STATS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=matheusbrunetti&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&icon_color=22d3ee&text_color=e6edf3" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrunetti&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=e6edf3" width="100%" />
+
+</td>
+</tr>
+</table>
