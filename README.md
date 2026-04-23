@@ -30,7 +30,7 @@
 📍 Frankfurt, Germany  
 🎓 UFLA — Universidade Federal de Lavras (2019)  
 🌐 Fluent in **PT · EN · DE**  
-🔐 Working on DDoS protection & network resilience  
+🌐 Working on DNS & CDN infrastructure  
 ⚡ Passionate about distributed systems & mobile dev  
 
 </td>
