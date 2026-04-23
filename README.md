@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Frankfurt,_Germany-0a0a0a?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PT_·_EN_·_DE-22d3ee?style=flat-square&labelColor=0a0a0a&color=22d3ee" />
+  <img src="https://img.shields.io/badge/PT_%C2%B7_EN_%C2%B7_DE-22d3ee?style=flat-square&labelColor=0a0a0a&color=22d3ee" />
   &nbsp;
   <img src="https://img.shields.io/badge/🔐_Cybersecurity-4ade80?style=flat-square&labelColor=0a0a0a&color=4ade80" />
 </p>
