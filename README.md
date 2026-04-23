@@ -66,3 +66,32 @@
 ![Git](https://img.shields.io/badge/Git-f87171?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fbbf24?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-60a5fa?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/>
+
+---
+
+### `// STREAK`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=matheusbrunetti&theme=tokyonight&hide_border=true&background=00000000&stroke=4ade80&ring=22d3ee&fire=4ade80&currStreakLabel=22d3ee" alt="Matheus Brunetti's GitHub streak" />
+</p>
+
+<br/>
+
+---
+
+### `// CONNECT WITH ME`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusbrunetti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-matheusbrunetti-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+</p>
+
+<br/>
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2018,100:000000&height=80&section=footer" width="100%" alt="Footer" />
+</p>
