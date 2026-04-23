@@ -45,3 +45,24 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+### `// TECH STACK`
+
+**Languages:**
+
+![Java](https://img.shields.io/badge/Java-4ade80?style=for-the-badge&logo=openjdk&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-818cf8?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-22d3ee?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-fbbf24?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Platforms:**
+
+![Android](https://img.shields.io/badge/Android-4ade80?style=for-the-badge&logo=android&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-22d3ee?style=for-the-badge&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f87171?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fbbf24?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-60a5fa?style=for-the-badge&logo=postgresql&logoColor=white)
